@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @heismarques
+- 👋 Hi, I’m @jADEOZWALD
 - 👀 I’m interested in ...web designing and software development
-- 🌱 I’m currently learning ...programming
-- 💞️ I’m looking to collaborate on ...world best programmers
-- 📫 How to reach me ...contactshanravi@gmail.com
+- 🌱 I’m currently learning, designing and developing softwares
+- 📫 How to reach me ...contactjadeozwald@gmail.com
 
 <!---
 heismarques/heismarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
